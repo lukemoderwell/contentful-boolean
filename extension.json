@@ -1,0 +1,6 @@
+{
+  "id": "booleanCheckbox",
+  "name": "Boolean Checkbox",
+  "srcdoc": "./index.html",
+  "fieldTypes": ["Boolean"]
+}
